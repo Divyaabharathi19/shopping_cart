@@ -1,0 +1,16 @@
+{
+    "cart": [
+        {
+            "name": "apples",
+            "quantity": 70
+        },
+        {
+            "name": "soap",
+            "quantity": 14
+        },
+        {
+            "name": "cake",
+            "quantity": 21
+        }
+    ]
+}

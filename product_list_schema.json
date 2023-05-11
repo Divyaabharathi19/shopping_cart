@@ -1,0 +1,19 @@
+{
+
+    "type": "object",
+    "properties": {
+        "product_list": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name":{"type" : "string"},
+                    "value":{"type": "number", "minimum": 0}
+                }
+            }
+        }
+    },
+    "additionalProperties" : false,
+
+    "required": ["product_list"]
+}

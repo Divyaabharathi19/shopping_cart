@@ -1,0 +1,16 @@
+{
+    "product_list":[
+        {
+            "name": "apples",
+            "value": 1
+        },
+        {
+            "name": "soap",
+            "value": 5
+        },
+        {
+            "name": "cake",
+            "value": 20.4
+        }
+    ]
+}
